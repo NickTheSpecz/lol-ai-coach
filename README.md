@@ -1,9 +1,9 @@
-# League AI Coach - Performance Optimizer
+# Mirai - Performance Optimizer
 
 Este é um projeto em desenvolvimento focado em analisar partidas competitivas e personalizadas (Custom Games) de League of Legends usando IA.
 
 ## Visão Geral
-O **League AI Coach** utiliza a API da Riot Games (Match-V5 e Timeline-V5) para extrair dados avançados minuto a minuto das partidas (como Gold Per Minute, diferença de XP e controle de objetivos). Com esses dados, uma Inteligência Artificial (LLM) analisa as decisões táticas e fornece feedback automático para os jogadores do time.
+O **Mirai** utiliza a API da Riot Games (Match-V5 e Timeline-V5) para extrair dados avançados minuto a minuto das partidas (como Gold Per Minute, diferença de XP e controle de objetivos). Com esses dados, uma Inteligência Artificial (LLM) analisa as decisões táticas e fornece feedback automático para os jogadores do time.
 
 ## Status do Projeto
 Em desenvolvimento Alpha. A integração base com as APIs da Riot (Autenticação RSO e extração de histórico) está implementada. O módulo de IA está em fase de integração.
